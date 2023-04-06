@@ -7,9 +7,11 @@ For me, my job is not simply about making test cases and bug reports. I make eve
 I would like to work on a socially-significant product, which helps people. I am interested in professional growing, learning new skills and using them on practice.
 
 **Skills**
+
 Test Analysis, Test Design, UI testing, API testing, HTTP, Postman, Charles/Fiddler, Chrome DevTools, SQL, Bash, Atlassian Jira
 
 **Also**
+
 I love 📷 digital photography and photo processing. I like music and play the 🎹 piano.
 
 I would be happy to join a company that makes products in these areas as a QA Engineer!
